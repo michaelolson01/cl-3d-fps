@@ -1,8 +1,9 @@
-# Cl-Star-Builder
-A Testbed for OpenGL Game dev in lisp
+# cl-3d-fps
+A Testbed for OpenGL development in lisp
 
 ## Usage
-TODO
+not setup to be used outside of slime/sbcl yet
 
 ## Installation
 TODO
+
